@@ -4,7 +4,7 @@ This is the ReversingSpace meta repository.  It is used to house structural and 
 
 ## Contents
 
-* [`code_of_conducts.md`](./code_of_conducts.md) is the Code of Conduct for Contributors.
+* [`code_of_conduct.md`](./code_of_conduct.md) is the Code of Conduct for Contributors.
 
 ## Licences
 
